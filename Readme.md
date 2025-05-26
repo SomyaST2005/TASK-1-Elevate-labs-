@@ -14,10 +14,10 @@
 -Reviewed the scan results to identify active hosts, open ports, and running services.\
 -Captured network traffic with Wireshark during the scan to validate findings.\
 -Researched the identified services to evaluate their security implications.\
--Documented the process, results, and insights in this README and supporting files.\
+-Documented the process, results, and insights in this README and supporting files.
 
 ---
-### Findings\
+### Findings
 The Nmap scan identified 6 active hosts on the network. Below are the key results:\
 
 **192.168.29.1 (Router - reliance.reliance):**\
