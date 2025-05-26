@@ -23,27 +23,27 @@ The Nmap scan identified 6 active hosts on the network. Below are the key result
 **192.168.29.1 (Router - reliance.reliance):**\
 ***Open Ports***: 80 (http), 443 (https), 1900 (upnp), 7443 (oracleas-https), 8080 (http-proxy), 8443 (https-alt)\
 ***Closed Ports***: 2869 (icslap), 8002 (teradataordbms), 8200 (trivnet1)\
-***MAC Address***: F0:ED:B8:59:5C:17 (Servercom (India) Private Limited)\
+***MAC Address***: F0:ED:B8:59:5C:17 (Servercom (India) Private Limited)
 
 
 **192.168.29.54:**\
 ***Filtered Port***: 5060 (sip)\
-***MAC Address***: EE:37:E7:0F:51:8F (Unknown)\
+***MAC Address***: EE:37:E7:0F:51:8F (Unknown)
 
 
 **192.168.29.56:**\
 ***All 1000 scanned ports closed***\
-***MAC Address***: 72:BA:BF:FC:AD:B2 (Unknown)\
+***MAC Address***: 72:BA:BF:FC:AD:B2 (Unknown)
 
 
 **192.168.29.198:**\
 ***All 1000 scanned ports closed***\
-***MAC Address:*** 86:82:6F:00:FC:BA (Unknown)\
+***MAC Address:*** 86:82:6F:00:FC:BA (Unknown)
 
 
 **192.168.29.209:**\
 ***Filtered Port:*** 5060 (sip)\
-***MAC Address:*** 90:78:B2:BC:59:11 (Xiaomi Communications)\
+***MAC Address:*** 90:78:B2:BC:59:11 (Xiaomi Communications)
 
 
 **192.168.29.68 (Windows Device):**\
@@ -77,6 +77,7 @@ Validated Nmap results and provided insight into the scanning process.
 
 ---
 ### Resources
+
 ***Nmap documentation (https://nmap.org/docs.html), Wireshark user guide (https://www.wireshark.org/docs/), and online tutorials.***
 
 ***Note: Wireshark capture files are excluded via .gitignore due to their size and potential sensitivity. The analysis summary is included above.***
