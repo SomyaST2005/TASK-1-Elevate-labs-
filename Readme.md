@@ -6,7 +6,7 @@
 ***Wireshark:*** Used to capture and analyze network traffic during the scan.
 
 ---
-### Process\
+### Process
 
 -Installed Nmap from https://nmap.org/.\
 -Determined my local network IP range (192.168.29.0/24) using **ipconfig** on Windows.\
